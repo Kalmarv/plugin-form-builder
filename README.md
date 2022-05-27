@@ -1,3 +1,8 @@
+**Notice:**
+This plugin has moved! It is now supported by [PayloadCMS](https://payloadcms.com) — see the [official plugin](https://www.npmjs.com/package/@payloadcms/plugin-form-builder) for full details.
+
+---
+
 # Payload Form Builder Plugin
 
 [![NPM](https://img.shields.io/npm/v/@payloadcms/plugin-form-builder)](https://www.npmjs.com/package/@payloadcms/plugin-form-builder)
